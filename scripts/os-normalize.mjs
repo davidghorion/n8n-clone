@@ -55,3 +55,6 @@ const cmd = normalizeCommand(run);
 
 echo(chalk.cyan(`$ Running (dir: ${dir}) ${cmd} ${args.join(' ')}`));
 await $({ stdio: 'inherit' })`${cmd} ${args}`;
+
+
+dWNFXEBEdkx6XFtqcQ==
